@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Roboto;
+  src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+
+:root {
+  --color-primary-tomato: hsl(4, 100%, 67%);
+  --color-neutral-dsg: hsl(234, 29%, 20%);
+  --color-neutral-cg: hsl(235, 18%, 26%);
+  --color-neutral-grey: hsl(235, 18%, 26%);
+  --color-neutral-white: hsl(0, 0%, 100%)
+  --font-size: 1rem;
+  --font-weight-light: 400;
+  --font-weight-heavy: 700;
+}
+
+body {
+  font-family: Roboto;
+}
